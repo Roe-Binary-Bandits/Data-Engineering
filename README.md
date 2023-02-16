@@ -15,8 +15,8 @@ The ETL process runs through an Airlfow DAG:
 ![Data_Pipeline](docs/images/Data_pipeline.png)
 
 The process is as follows:
-1. 
-2. 
+1. create_table
+2. load_data
 3. 
 
 # Team Members
