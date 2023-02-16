@@ -12,7 +12,7 @@ The technical architecture for this project is as show below:
 
 # Data Pipline
 The ETL process runs through an Airlfow DAG:
-(docs/images/Data_pipline.png)
+![Data_Pipeline](docs/images/Data_pipline.png)
 The process is as follows:
 1. 
 2. 
