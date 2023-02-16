@@ -8,7 +8,7 @@
 * We have a Python file that generates a data source in the form of a CSV file. The file creates 100 rows of data, with each row representing a person and containing the person's name, age, and country of origin. The data is generated randomly using Python's built-in random module. The code writes the data to a CSV file named "generated_data.csv". The generated data could be used for various purposes, such as testing data analysis or machine learning models.
 
 ## Architecture
-The technical architecture for this project is as show below [Scouce:airflow.apache.org]:
+The technical architecture for this project is as show below [source:airflow.apache.org]:
 ![Architecture](docs/images/diag.png)
 
 # Data model
